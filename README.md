@@ -20,7 +20,7 @@ This is the official implementation of our paper [Deep Multimodal Representation
 Write the documents.
 
 ### Requirements
-- python2 
+- python 2 
 - torch
 - torchvision
 - timm
