@@ -71,10 +71,14 @@ If you have further questions and suggestions, please feel free to contact us (x
 
 If you find this code useful in your research, please consider citing:
 ```
-@article{xiang2022deep,
-  title={Deep Multimodal Representation Learning for Generalizable Person Re-identification},
+@article{xiang2024deep,
+  title={Deep multimodal representation learning for generalizable person re-identification},
   author={Xiang, Suncheng and Chen, Hao and Ran, Wei and Yu, Zefang and Liu, Ting and Qian, Dahong and Fu, Yuzhuo},
-  journal={arXiv preprint arXiv:2211.00933},
-  year={2022},
+  journal={Machine Learning},
+  volume={113},
+  number={4},
+  pages={1921--1939},
+  year={2024},
+  publisher={Springer}
 }
 ```
